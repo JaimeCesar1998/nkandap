@@ -5,7 +5,6 @@ import ProductImage from "@/assets/product-image.jpg";
 import {
     Home,
     Users,
-    UserPlus,
     BookOpen,
     CalendarDays,
     CheckCircle,
